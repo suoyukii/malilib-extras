@@ -1,0 +1,7 @@
+malilib_extras:
+  condition:
+    not_found: "缺少 %s"
+    version_match: "%s 与版本 %s 匹配"
+    version_mismatch: "%s 与版本 %s 不匹配"
+    test_success: "%s 成功"
+    test_fail: "%s 失败"
